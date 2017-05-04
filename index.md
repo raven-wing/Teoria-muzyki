@@ -15,3 +15,5 @@ Bardzo docenię konstruktywną krytykę.
 Pytania i uwagi są pożądane.
 
 Krzysiek
+
+PS. niniejsza strona jest wybitnie programistyczna - przechowywana jest historia. W związku z tym w łatwy sposób możesz sprawdzić co się zmieniło od ostatniej Twojej wizyty [tutaj](https://github.com/raven-wing/gnida-teoria-muzyki/commits/master)
