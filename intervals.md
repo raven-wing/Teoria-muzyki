@@ -4,8 +4,8 @@
 3. alterowania interwałów
 
 # ćwiczenia
-[zbuduj interwał mając podaną prymę](http://www.teoria.com/en/exercises/ic.php)
-[jaki to interwał?](http://www.teoria.com/en/exercises/ic.php)
+1. [zbuduj interwał mając podaną prymę](http://www.teoria.com/en/exercises/ic.php)
+2. [jaki to interwał?](http://www.teoria.com/en/exercises/ic.php)
 
 Objaśnienie do ćwiczeń:
 - M - major     - wielki (wielka litera - wielki interwał)
