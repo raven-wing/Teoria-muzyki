@@ -17,8 +17,8 @@ Objaśnienie do ćwiczeń:
 numery oznaczają 1 - pryma, 8 - oktawa
 
 # materiały
-[wiki mówi, jak stworzyć interwał](https://pl.wikipedia.org/wiki/Interwa%C5%82#Okre.C5.9Blanie_nazwy_interwa.C5.82u)
-[Tabelka na samym dole](http://www.gimnastykasluchu.pl/pl/blog/162-budowa-interwalow-muzycznych) - pamiętać, że cały ton to dwa półtony
+- [wiki mówi, jak stworzyć interwał](https://pl.wikipedia.org/wiki/Interwa%C5%82#Okre.C5.9Blanie_nazwy_interwa.C5.82u)
+- [Tabelka interwałów (na samym dole)](http://www.gimnastykasluchu.pl/pl/blog/162-budowa-interwalow-muzycznych) - pamiętać, że cały ton to dwa półtony
 
 # FAQ
 ## Dlaczego pryma zmniejszona nie istnieje
