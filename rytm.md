@@ -4,4 +4,4 @@
 3. metrum - ułamki
 
 # ćwiczenia
-[dyktando rytmiczne]http://www.teoria.com/en/exercises/rd4.php
+[dyktando rytmiczne](http://www.teoria.com/en/exercises/rd4.php)
