@@ -1,8 +1,8 @@
 ## Teoria (i nie tylko) muzyki
 
-#lekcja 1
+# lekcja 1
 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-#[Lekcja druga](https://guides.github.com/features/mastering-markdown/)
+[# Lekcja druga](https://guides.github.com/features/mastering-markdown/)
 
 
 
