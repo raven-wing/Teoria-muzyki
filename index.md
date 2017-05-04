@@ -1,8 +1,8 @@
 ## Teoria (i nie tylko) muzyki
 
-# lekcja 1
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-[# Lekcja druga](https://guides.github.com/features/mastering-markdown/)
+
+1. [Rytm, czyli co oznaczają: ułamki przy kluczu, pokolorowane nuty i szlaczki pomiędzy nimi](rytm.md)
+2. [ Dlaczego 4+5=8? czyli - o interwałach słów kilka](intervals.md)
 
 
 
