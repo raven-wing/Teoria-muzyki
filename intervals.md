@@ -8,11 +8,11 @@
 [jaki to interwał?](http://www.teoria.com/en/exercises/ic.php)
 
 Objaśnienie do ćwiczeń:
-M - major     - wielki (wielka litera - wielki interwał)
-m - minor     - mały
-P - perfect   - czysty
-d - dimnished - zmniejszony
-a - augmented - zwiększony
+- M - major     - wielki (wielka litera - wielki interwał)
+- m - minor     - mały
+- P - perfect   - czysty
+- d - dimnished - zmniejszony
+- a - augmented - zwiększony
 
 numery oznaczają 1 - pryma, 8 - oktawa
 
