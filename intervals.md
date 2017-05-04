@@ -1,3 +1,4 @@
+## Dlaczego 4+5=8? czyli - o interwałach słów kilka
 # sylabus
 1. interwały czyste, małe, wielkie, zwiększone, zmniejszone
 2. szereg gamy durowej
