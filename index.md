@@ -19,7 +19,7 @@ Bardzo docenię konstruktywną krytykę. Jeśli uważasz, że:
 - znalazłeś ciekawy materiał dotyczący lekcji
 
 Wal.
-Pytania i uwagi są pożądane.
+Pytania i uwagi są pożądane. [Ankieta - żadne pytanie nie jest obowiązkowe](https://goo.gl/forms/JOc8ts9mQlHe7IGA2)
 
 Krzysiek
 
