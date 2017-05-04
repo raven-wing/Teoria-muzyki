@@ -1,4 +1,4 @@
-## Teoria (i nie tylko) muzyki
+# Teoria (i nie tylko) muzyki
 
 
 1. [Rytm, czyli co oznaczają: ułamki przy kluczu, pokolorowane nuty i szlaczki pomiędzy nimi](rytm.md)
