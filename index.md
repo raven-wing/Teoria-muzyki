@@ -11,7 +11,14 @@ To takie Open Source w muzyce (ciekawych czym jest open source odsyłam do googl
 Jestem samoukiem, nigdy nikt mnie nie uczył teorii muzyki, ani też praktyki (poza emisjami).
 Tak więc większość mojej wiedzy wynika z przeczytania trochę lektur, szperania w internecie i z własnej praktyki.
 
-Bardzo docenię konstruktywną krytykę.
+Bardzo docenię konstruktywną krytykę. Jeśli uważasz, że:
+- o czymś zapomniałem,
+- coś pominąłem,
+- pomyliłem się,
+- coś jest niezrozumiałe,
+- znalazłeś ciekawy materiał dotyczący lekcji
+
+Wal.
 Pytania i uwagi są pożądane.
 
 Krzysiek
