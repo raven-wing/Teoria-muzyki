@@ -2,7 +2,7 @@
 
 1. [Rytm, czyli co oznaczają: ułamki przy kluczu, pokolorowane nuty i szlaczki pomiędzy nimi (20.04.2017)](rytm.md)
 2. [Dlaczego 4+5=8? czyli - o interwałach słów kilka (04.05.2017)](intervals.md) 
-3. [owady jedzące ubrania i tyfus, czyli budowa akordow (11.05.2017)](intervals.md) 
+3. [owady jedzące ubrania i tyfus, czyli budowa akordow (11.05.2017)](chords.md) 
 
 
 
